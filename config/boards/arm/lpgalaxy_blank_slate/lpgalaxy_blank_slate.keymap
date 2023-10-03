@@ -26,7 +26,9 @@
 
 // Apple "Globe" key
 // https://github.com/zmkfirmware/zmk/issues/947
-#define GLOBE CAPSLOCK
+//#ifndef GLOBE
+//  #define GLOBE CAPSLOCK
+//#fi
 
 // Sticky keys timeout after 1.5 seconds
 #define STICKY_KEY_TIMEOUT 1500

@@ -42,7 +42,7 @@ COMBO(underscore, &kp UNDER, 1 2, BASE)
 /* Brackets */
 COMBO(left_parenthesis, &kp LEFT_PARENTHESIS, 6 7, NUM)
 COMBO(right_parenthesis, &kp RIGHT_PARENTHESIS, 7 8, NUM)
-COMBO(parentheses, &macro_parentheses, 7 8 9, NUM)!tttt
+COMBO(parentheses, &macro_parentheses, 7 8 9, NUM)
 COMBO(left_bracket, &kp LEFT_BRACKET, 16 17, NUM)
 COMBO(right_bracket, &kp RIGHT_BRACKET, 17 18, NUM)
 COMBO(brackets, &macro_brackets, 16 17 18, NUM)
